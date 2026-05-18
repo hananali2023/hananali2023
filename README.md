@@ -1,4 +1,4 @@
-# Hi, I'm Hanan Ali 👋
+# Hi, I'm Hanan Ali 
 
 **Data Scientist | Charlotte, NC**
 MS in Applied Data Science, USC · BS in Information Science, UNC-Chapel Hill
