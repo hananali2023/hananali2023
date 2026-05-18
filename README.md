@@ -17,11 +17,10 @@ Open to full-time DS/DE opportunities.
  
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🏅 olympic-medal-prediction](https://github.com/hananali2023/olympic-medal-prediction) | Predicting Olympic medal outcomes from 70K+ athlete records. EDA, feature selection, and comparison of Logistic Regression, Decision Tree, and Naïve Bayes with class imbalance handling. | Python, scikit-learn, pandas, SMOTE |
-| [🌲 going-for-gold](https://github.com/hananali2023/going-for-gold) | ML classification project exploring whether physical attributes predict Olympic medals. Chi-squared feature selection, model comparison, and class imbalance analysis. | Python, scikit-learn, seaborn |
+| [🏅 going-for-gold](https://github.com/hananali2023/going-for-gold) | Predicting Olympic medal outcomes from 70K+ athlete records. EDA, feature selection, and comparison of Logistic Regression, Decision Tree, and Naïve Bayes with class imbalance handling. | Python, scikit-learn, pandas, SMOTE |
 | [🗺️ nc-education-dashboard](https://github.com/hananali2023/nc-education-dashboard) | Interactive dashboard exploring racial disparities in NC public school funding across all 100 counties. Linked choropleth map, demographic bar chart, and scatter plots — all updating in sync. Custom Shannon-Wiener diversity index. | D3.js, Firebase, TopoJSON |
 | [🎓 unicompare](https://github.com/hananali2023/unicompare) | University rankings explorer for 1,400+ institutions. Live Firebase data, 10+ filter dimensions, side-by-side comparison of up to 3 universities, and partial-name search with disambiguation. | JavaScript, Firebase Realtime DB, CSS |
-| [🤖 ml-portfolio](https://github.com/hananali2023/DSCI552-Machine-Learning-for-Data-Science) | Six ML projects: sentiment analysis (CNN/LSTM), learning paradigms (active learning, semi-supervised), multi-label SVM on bioacoustic data, imbalanced classification, regression regularization, and regression analysis. | Python, TensorFlow, scikit-learn, XGBoost |
+| [🤖 ml-portfolio](https://github.com/hananali2023/ML-Projects-USC) | Six ML projects: sentiment analysis (CNN/LSTM), learning paradigms (active learning, semi-supervised), multi-label SVM on bioacoustic data, imbalanced classification, regression regularization, and regression analysis. | Python, TensorFlow, scikit-learn, XGBoost |
  
 ---
  
