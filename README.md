@@ -5,11 +5,12 @@ MS in Applied Data Science, USC · BS in Information Science, UNC-Chapel Hill
 ---
  
 ## About Me
-I build things at the intersection of data engineering, machine learning, and community impact.  
+I build things at the intersection of data engineering, machine learning, and community impact.
 Open to full-time DS/DE opportunities.
- 
-- 🏙️ Working on a RAG chatbot over Charlotte public records
-- 📊 Building a dbt + DuckDB + Metabase analytics stack
+
+- 🤖 Built and validated RAG pipelines at IBM with 95% response accuracy
+- 🗺️ Built geospatial analytics features and automated ETL pipelines in Python
+- 📊 Analyzed email campaign data for SWE Charlotte to drive outreach strategy
 - 🔍 Interested in LLMs, geospatial analytics, and ethical AI
 ---
  
