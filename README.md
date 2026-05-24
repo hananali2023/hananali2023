@@ -46,10 +46,10 @@ Streamlit · Tableau · D3.js · Matplotlib · Seaborn
  
 | Role | Company | Impact |
 |------|---------|--------|
-| Data Scientist Intern | IBM | Automated Salesforce pipeline (saved 50+ hrs/yr); RAG accuracy → 95% |
+| Data Scientist Intern | IBM | Automated Salesforce pipeline (saved 50+ hrs/yr) |
 | Backend Developer Intern | IBM | Reduced documentation effort by 16 hrs/service; adopted by 5+ teams |
 | Analytics & Data Intern | Wells Fargo | ETL automation reduced analyst effort by 80% |
-| Data & Systems Analyst | Innovate Carolina | Supported 400+ student startups |
+| Data & Systems Analyst | Innovate Carolina | Supported 400+ student startups' data in Salesforce |
  
 ---
  
